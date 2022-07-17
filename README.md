@@ -6,5 +6,5 @@ In this class I learned a lot of HTML, CSS, Vanilla JavaScript - Functions, Arra
 
 ### Simple Draw App using Vanilla JS.
 
-https://user-images.githubusercontent.com/75100642/179419348-2fad7b2a-f70f-4a11-80c3-83b49206b57e.mp4
+https://user-images.githubusercontent.com/75100642/179419390-d50dc321-cd4e-4923-b790-0d08289d477e.mp4
 
